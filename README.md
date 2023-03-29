@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliosmanbeker" alt="aliosmanbeker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aliosmanbeker" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aliosmanbeker?logo=twitter&style=for-the-badge" alt="https://twitter.com/aliosmanbeker" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@aliosmanbeker" target="blank"><img src="https://img.shields.io/twitter/follow/@aliosmanbeker?logo=twitter&style=for-the-badge" alt="@aliosmanbeker" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/aliosmanbeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aliosmanbeker" height="30" width="40" /></a>
+<a href="https://twitter.com/@aliosmanbeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aliosmanbeker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-osman-beker-8b3b82184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-osman-beker-8b3b82184/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aliosmanbeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliosmanbeker" height="30" width="40" /></a>
 <a href="https://medium.com/@aliosmanbeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliosmanbeker" height="30" width="40" /></a>
